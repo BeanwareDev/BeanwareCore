@@ -54,7 +54,7 @@ namespace BeanwareCore.Src.Ctrl.Utility
         public static int Index<T>(IEnumerable<T> collection)
         {
             if (collection == null || collection.Count() == 0)
-                return -1;
+                throw new ArgumentException("Could not return an index as the collection is empty");
 
             return Integer(0, (collection.Count() + 1) * 2) % collection.Count();
         }
