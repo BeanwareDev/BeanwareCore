@@ -1,0 +1,10 @@
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\BeanwareCore.dll
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\BeanwareCore.pdb
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\Ionic.Zip.dll
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\MoonSharp.Interpreter.dll
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\MoonSharp.Interpreter.pdb
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\bin\Debug\MoonSharp.Interpreter.xml
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\obj\Debug\BeanwareCore.csproj.CopyComplete
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\obj\Debug\BeanwareCore.dll
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\obj\Debug\BeanwareCore.pdb
+D:\Coding\Local Projects\BeanwareCore\BeanwareCore\obj\Debug\BeanwareCore.csprojAssemblyReference.cache
